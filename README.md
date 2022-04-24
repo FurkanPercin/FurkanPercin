@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m interested in **data science and software development.**
 
-- 🎓I'm currently from **Izmir Katip Celebi University with bachelor's degree.**
+- 🎓I'm currently a student at **Izmir Katip Celebi University with bachelor's degree.**
 
 - 💻 I love **writing code and learn about it.**
 
